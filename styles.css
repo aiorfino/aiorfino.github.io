@@ -41,7 +41,7 @@ html,body{
 
 .main-header {
     background-color: rbga(0, 0, 0, .6);
-    background-image: url("Mickey Images/Young couch crop.JPG");
+    background-image: url("Mickey Images/Young couch crop.jpg");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
